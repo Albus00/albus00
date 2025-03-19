@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Albin</h1>
 <h3 align="center">A 5th Year Student in M.Sc Media Technology and Engineering.</h3>
 
-- 🔭 I’m currently working on [My masters thesis](https://www.vermiculus.se/)
+- 🔭 I’m currently working on my masters thesis: Market fairness in an unfair environment, at [Vermiculus](https://www.vermiculus.se/)
 
-- 🌱 I’m currently learning **Godot, by making a** [2D factory game](https://github.com/Albus00/botched-batch-brewery)
+- 🌱 I’m currently learning **Godot**, by making a [2D factory game](https://github.com/Albus00/botched-batch-brewery)
 
 - 👨‍💻 All of my projects are available at [kjellbergalbin.se](kjellbergalbin.se)
 
