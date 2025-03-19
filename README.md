@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact@kjellbergalbin.se**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cnCMw2TB3Yhn-zPqVnUO7mYgC-KN-FzucccAxQTGLKg/edit?usp=sharing](https://docs.google.com/document/d/1cnCMw2TB3Yhn-zPqVnUO7mYgC-KN-FzucccAxQTGLKg/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1cnCMw2TB3Yhn-zPqVnUO7mYgC-KN-FzucccAxQTGLKg/edit?usp=sharing)
 
 - ⚡ Fun fact **I like creating and editing video content**
 
