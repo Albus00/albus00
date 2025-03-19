@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My masters thesis](https://www.vermiculus.se/)
 
-- 🌱 I’m currently learning **Godot, by making a 2D factory game**
+- 🌱 I’m currently learning **Godot, by making a [2D factory game](https://github.com/Albus00/botched-batch-brewery)**
 
 - 👨‍💻 All of my projects are available at [kjellbergalbin.se](kjellbergalbin.se)
 
