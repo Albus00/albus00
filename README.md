@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my master's thesis: *Market fairness in an unfair environment*, at [Vermiculus](https://www.vermiculus.se/)
 - 🌱 I’m currently learning **Godot**, by making a [2D factory game](https://github.com/Albus00/botched-batch-brewery)
-- 👨‍💻 All of my projects are available at [kjellbergalbin.se](kjellbergalbin.se)
+- 👨‍💻 All of my projects are available at [kjellbergalbin.se](https://www.kjellbergalbin.se)
 - 💬 Ask me about **React, Svelte, and Unity**
 - 📫 Reach me at **contact@kjellbergalbin.se**
 - 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1cnCMw2TB3Yhn-zPqVnUO7mYgC-KN-FzucccAxQTGLKg/edit?usp=sharing)
